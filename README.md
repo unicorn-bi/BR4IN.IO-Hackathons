@@ -23,7 +23,7 @@ A simple Simulink model to execute a Motor Imagery Paradigm using the Unicorn. M
 Software and Firmware for the Gin Tonic Robot. Requires Unicorn Suite BR41NIO.<br/>
 [Unicorn Gin Tonic](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20GinTonic.zip)
 
-## Unicorn Gin Tonic
+## Unicorn Smart Home
 Software and Firmware for the Smart Home environment. Requires Unicorn Suite BR41NIO.<br/>
 [Unicorn Smart Home](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20SmartHome.zip)
 
