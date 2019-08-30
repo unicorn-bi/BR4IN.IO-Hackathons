@@ -8,15 +8,15 @@ Required for all projects using a Unicorn BCI<br/>
 [Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)
 
 ## Unicorn Frequency Bands
-A Simulink model to estimate the bandpower of the alpha, beta, delta, theta frequency bands. Might be used for the Dream Painting project. Requires Matlab 2017a and Unicorn Suite BR41NIO.<br/>
+A Simulink model to estimate the bandpower of the alpha, beta, delta, theta frequency bands. Might be used for Dream Painting or an individual hacking project. Requires Matlab 2017a and Unicorn Suite BR41NIO.<br/>
 [Unicorn Frequency Bands](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Frequency%20Bands.zip)
 
 ## Unicorn Motor Imagery - Default
-A simple Simulink model to execute a Motor Imagery Paradigm using the Unicorn. Might be used for Orthosis Control, Flight Control, Unity Rehab or an individual hacking project. Requires Matlab 2017a, g.BSanalyze, g.HIsys and Unicorn Suite BR41NIO.<br/>
+A simple Simulink model to execute a Motor Imagery paradigm using the Unicorn. Might be used for Orthosis Control, Flight Control, Unity Rehab or an individual hacking project. Requires Matlab 2017a, g.BSanalyze, g.HIsys and Unicorn Suite BR41NIO.<br/>
 [Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)
 
 ## Unicorn Motor Imagery - Default
-A simple Simulink model to execute a Motor Imagery Paradigm using the Unicorn. Might be used for Orthosis Control, Flight Control, Unity Rehab or an individual hacking project. Requires Matlab 2017a, g.HIsys, g.BSanalyze, g.RTanalyze and Unicorn Suite BR41NIO.<br/>
+A simple Simulink model to execute a Motor Imagery paradigm using the Unicorn. Might be used for Orthosis Control, Flight Control, Unity Rehab or an individual hacking project. Requires Matlab 2017a, g.HIsys, g.BSanalyze, g.RTanalyze and Unicorn Suite BR41NIO.<br/>
 [Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
 ## Unicorn Gin Tonic
