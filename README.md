@@ -57,9 +57,9 @@ Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
-g.HIsys<br/>
-g.RTanalyze<br/>
-g.BSanalyze<br/>
+g.HIsys 3.18.00<br/>
+g.BSanalyze 5.18.00<br/>
+g.RTanalyze 3.18.00<br/>
 [Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)<br/>
 [Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
@@ -68,9 +68,9 @@ Microsoft Windows 10 Pro, 64-bit, English<br/>
 [Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
-g.HIsys<br/>
-g.RTanalyze<br/>
-g.BSanalyze<br/>
+g.HIsys 3.18.00<br/>
+g.BSanalyze 5.18.00<br/>
+g.RTanalyze 3.18.00<br/>
 [Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)<br/>
 [Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
@@ -90,9 +90,9 @@ Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
-g.HIsys<br/>
-g.RTanalyze<br/>
-g.BSanalyze<br/>
+g.HIsys 3.18.00<br/>
+g.BSanalyze 5.18.00<br/>
+g.RTanalyze 3.18.00<br/>
 [Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)<br/>
 [Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
@@ -108,10 +108,10 @@ Microsoft Windows 10 Pro, 64-bit, English<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
-g.HIsys<br/>
-g.BSanalyze<br/>
-g.RTanalyze<br/>
-g.NEEDaccess<br/>
+g.HIsys 3.18.00<br/>
+g.BSanalyze 5.18.00<br/>
+g.RTanalyze 3.18.00<br/>
+g.NEEDaccess 1.16.01<br/>
 
 ## Your Hacking Project
 Microsoft Windows 10 Pro, 64-bit, English<br/>
