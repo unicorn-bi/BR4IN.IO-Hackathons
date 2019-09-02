@@ -30,3 +30,102 @@ Software and Firmware for the Smart Home environment. Requires Unicorn Suite BR4
 ## Unicorn Speller - Item Receiver
 A .NET library to receive items from Unicorn Speller in your individual application. Might be used for projects using the Unicorn Speller.<br/>
 [Unicorn Speller - Item Receiver](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Speller%20(ItemReceiver).zip)
+
+# Project Prerequesites
+## Unicorn Speller: Smart Home
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+
+## Unicorn Sphero
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+
+## Unity Games
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+Unity 2019.1.0f2
+
+## Orthosis Control
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+Unity 2019.1.0f2
+MATLAB 2017a
+MATLAB Simulink
+Signal Processing Toolbox
+
+## Flight Control
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+Unity 2019.1.0f2
+
+## Dream Painting
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+MATLAB 2017a
+MATLAB Simulink
+Signal Processing Toolbox
+
+## Unity Rehab
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+Unity 2019.1.0f2
+MATLAB 2017a
+MATLAB Simulink
+Signal Processing Toolbox
+
+## Gin Tonic Robot
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+
+## fNIRS and EEG Control
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+MATLAB 2017a
+MATLAB Simulink
+Signal Processing Toolbox
+g.HIsys
+g.BSanalyze
+g.RTanalyze
+g.NEEDaccess
+
+## Your Hacking Project
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+Unity 2019.1.0f2
+MATLAB 2017a
+MATLAB Simulink
+Signal Processing Toolbox
+
+## Sense & Stimulate the Brain
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+Unity 2019.1.0f2
+MATLAB 2017a
+MATLAB Simulink
+Signal Processing Toolbox
+
+## Brain AI
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+Microsoft Visual Studio -- Microsoft .NET framework 4.7.1
+Unity 2019.1.0f2
+MATLAB 2017a
+MATLAB Simulink
+Signal Processing Toolbox
+
+## Unicorn Painting
+Microsoft Windows 10 Pro, 64-bit, English
+Unicorn Suite BR41N.IO Beta 1292
+
+## Design Unicorn Brain Interface with 3D Printers
+CAD Program (eg. PTC Creo, Auto CAD, Autodesk 123D, Tinkercad or similar)
+Ultimaker Cura 4.2.1
