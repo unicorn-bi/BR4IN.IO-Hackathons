@@ -34,23 +34,23 @@ A .NET library to receive items from Unicorn Speller in your individual applicat
 # Project Prerequesites
 ## Unicorn Speller: Smart Home
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 
 ## Unicorn Sphero
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 
 ## Unity Games
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2</br>
 
 ## Orthosis Control
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
@@ -59,20 +59,20 @@ Signal Processing Toolbox<br/>
 
 ## Flight Control
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
 
 ## Dream Painting
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
 
 ## Unity Rehab
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
@@ -81,12 +81,12 @@ Signal Processing Toolbox<br/>
 
 ## Gin Tonic Robot
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 
 ## fNIRS and EEG Control
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
@@ -97,7 +97,7 @@ g.NEEDaccess<br/>
 
 ## Your Hacking Project
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
@@ -106,7 +106,7 @@ Signal Processing Toolbox<br/>
 
 ## Sense & Stimulate the Brain
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
@@ -115,7 +115,7 @@ Signal Processing Toolbox<br/>
 
 ## Brain AI
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
@@ -124,7 +124,7 @@ Signal Processing Toolbox<br/>
 
 ## Unicorn Painting
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/>
+[Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 
 ## Design Unicorn Brain Interface with 3D Printers
 CAD Program (eg. PTC Creo, Auto CAD, Autodesk 123D, Tinkercad or similar)<br/>
