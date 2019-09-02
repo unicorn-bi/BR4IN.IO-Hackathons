@@ -46,14 +46,14 @@ Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Microsoft Windows 10 Pro, 64-bit, English<br/>
 Unicorn Suite BR41N.IO Beta 1292<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
-Unity 2019.1.0f2<br/>
+Unity 2019.1.0f2</br>
 
 ## Orthosis Control
 Microsoft Windows 10 Pro, 64-bit, English<br/>
 Unicorn Suite BR41N.IO Beta 1292<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
-MATLAB 2017a<br/><br/>
+MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
 
@@ -86,7 +86,7 @@ Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 
 ## fNIRS and EEG Control
 Microsoft Windows 10 Pro, 64-bit, English<br/>
-Unicorn Suite BR41N.IO Beta 1292<br/><br/>
+Unicorn Suite BR41N.IO Beta 1292<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
