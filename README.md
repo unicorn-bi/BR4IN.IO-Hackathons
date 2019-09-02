@@ -15,7 +15,7 @@ A Simulink model to estimate the bandpower of the alpha, beta, delta, theta freq
 A simple Simulink model to execute a Motor Imagery paradigm using the Unicorn. Might be used for Orthosis Control, Flight Control, Unity Rehab or an individual hacking project. Requires Matlab 2017a, g.BSanalyze, g.HIsys and Unicorn Suite BR41NIO.<br/>
 [Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)
 
-## Unicorn Motor Imagery - Default
+## Unicorn Motor Imagery - Extended
 A simple Simulink model to execute a Motor Imagery paradigm using the Unicorn. Might be used for Orthosis Control, Flight Control, Unity Rehab or an individual hacking project. Requires Matlab 2017a, g.HIsys, g.BSanalyze, g.RTanalyze and Unicorn Suite BR41NIO.<br/>
 [Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
@@ -36,6 +36,7 @@ A .NET library to receive items from Unicorn Speller in your individual applicat
 Microsoft Windows 10 Pro, 64-bit, English<br/>
 [Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
+[Unicorn Smart Home](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20SmartHome.zip)
 
 ## Unicorn Sphero
 Microsoft Windows 10 Pro, 64-bit, English<br/>
@@ -56,12 +57,22 @@ Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
+g.HIsys<br/>
+g.RTanalyze<br/>
+g.BSanalyze<br/>
+[Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)<br/>
+[Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
 ## Flight Control
 Microsoft Windows 10 Pro, 64-bit, English<br/>
 [Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
 Unity 2019.1.0f2<br/>
+g.HIsys<br/>
+g.RTanalyze<br/>
+g.BSanalyze<br/>
+[Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)<br/>
+[Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
 ## Dream Painting
 Microsoft Windows 10 Pro, 64-bit, English<br/>
@@ -69,6 +80,7 @@ Microsoft Windows 10 Pro, 64-bit, English<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
+[Unicorn Frequency Bands](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Frequency%20Bands.zip)<br/>
 
 ## Unity Rehab
 Microsoft Windows 10 Pro, 64-bit, English<br/>
@@ -78,11 +90,17 @@ Unity 2019.1.0f2<br/>
 MATLAB 2017a<br/>
 MATLAB Simulink<br/>
 Signal Processing Toolbox<br/>
+g.HIsys<br/>
+g.RTanalyze<br/>
+g.BSanalyze<br/>
+[Unicorn Motor Imagery - Default](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Default.zip)<br/>
+[Unicorn Motor Imagery - Extended](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Motor%20Imagery%20Extended.zip)
 
 ## Gin Tonic Robot
 Microsoft Windows 10 Pro, 64-bit, English<br/>
 [Unicorn Suite BR41NIO Beta 1292](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20Suite%20BR41NIO%20BETA%201292.zip)<br/>
 Microsoft Visual Studio -- Microsoft .NET framework 4.7.1<br/>
+[Unicorn Gin Tonic](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/Unicorn%20GinTonic.zip)
 
 ## fNIRS and EEG Control
 Microsoft Windows 10 Pro, 64-bit, English<br/>
