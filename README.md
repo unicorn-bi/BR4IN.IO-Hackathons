@@ -147,3 +147,6 @@ Microsoft Windows 10 Pro, 64-bit, English<br/>
 ## Design Unicorn Brain Interface with 3D Printers
 CAD Program (eg. PTC Creo, Auto CAD, Autodesk 123D, Tinkercad or similar)<br/>
 Ultimaker Cura 4.2.1<br/>
+
+# Powerpoint presentation template
+[Powerpoint Presentation Template](https://www.unicorn-bi.com/wp-content/uploads/2019/HackathonSoftware2019/template-hackathon-presentation.pptx)<br/>
