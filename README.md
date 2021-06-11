@@ -1,4 +1,4 @@
-# BR4IN.IO-Hackathons-2019
+# BR4IN.IO-Hackathons
 Tutorials and Information about the Unicorn and available Software interfaces:<br/>
 [Unicorn Hybrid Black Repository](https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black)
 
